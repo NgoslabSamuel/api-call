@@ -1,0 +1,80 @@
+{
+  "2024": {
+    "response": [
+      {
+        "team": "Los Angeles Lakers",
+        "win": 30,
+        "loss": 20
+      },
+      {
+        "team": "Golden State Warriors",
+        "win": 25,
+        "loss": 25
+      },
+      {
+        "team": "Los Angeles Clippers",
+        "win": 35,
+        "loss": 15
+      },
+      {
+        "team": "Minnesota Timberwolves",
+        "win": 30,
+        "loss": 20
+      },
+      {
+        "team": "Denver Nuggets",
+        "win": 25,
+        "loss": 25
+      },
+      {
+        "team": "Sacramento Kings",
+        "win": 35,
+        "loss": 15
+      },
+      {
+        "team": "Utah Jazz",
+        "win": 35,
+        "loss": 15
+      }
+    ]
+  },
+  "2023": {
+    "response": [
+      {
+        "team": "Los Angeles Lakers",
+        "win": 28,
+        "loss": 22
+      },
+      {
+        "team": "Golden State Warriors",
+        "win": 27,
+        "loss": 23
+      },
+      {
+        "team": "Los Angeles Clippers",
+        "win": 32,
+        "loss": 18
+      },
+      {
+        "team": "Minnesota Timberwolves",
+        "win": 29,
+        "loss": 21
+      },
+      {
+        "team": "Denver Nuggets",
+        "win": 26,
+        "loss": 24
+      },
+      {
+        "team": "Sacramento Kings",
+        "win": 34,
+        "loss": 16
+      },
+      {
+        "team": "Utah Jazz",
+        "win": 33,
+        "loss": 17
+      }
+    ]
+  }
+}
